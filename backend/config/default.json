@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://127.0.0.1:27017/crypdefi",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
